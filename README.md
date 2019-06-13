@@ -1,3 +1,6 @@
+students = ["Harry Potter", "Ron Weasley", "Hermione Granger"]
+students[1]
+students.include?("draco Malfoy")
 
 Hi! 👋
 
